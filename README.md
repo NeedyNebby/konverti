@@ -1,7 +1,7 @@
 # konverti
 konverti (konˈverti) or convert in english, is a local converting app which is a frontend for FFmpeg built using Python Tkinter
->>[!NOTE]
->>This project will probably be abandoned 
+>[!NOTE]
+>This project will probably be abandoned 
 # Prerequisites
 - FFmpeg
 - Python
