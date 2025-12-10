@@ -3,7 +3,6 @@ import os
 from tkinter import filedialog
 import subprocess
 import argparse
-from PIL import Image, ImageTk
 # Source - https://stackoverflow.com/a
 # Posted by Rainer Niemann, modified by community. See post 'Timeline' for change history
 # Retrieved 2025-12-07, License - CC BY-SA 4.0
@@ -152,3 +151,4 @@ file_btn = tk.Button(menu_frame, text="File", bg=dark_bar, fg=dark_fg, activebac
 file_btn.grid(row=0, column=0, sticky="w")
 
 root.mainloop()
+
